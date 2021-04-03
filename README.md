@@ -1,6 +1,6 @@
 # Operations Simulator for the Rubin Observatory 
 
-Candice Stauffer | 02/01/2021 | IDEAS FSS-Vis Final Project
+
 
 [A live version is available here.](https://ageller.github.io/IDEAS_FSS-Vis/FinalStudentProjects/2021winter/CandiceStauffer/index.html)
 
