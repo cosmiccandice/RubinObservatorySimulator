@@ -9,7 +9,7 @@ ____________________________________________________________________
 
 ## About
 
-This simulation shows a field selection and image acquisition of the Rubin Observatory of the 1-year life of its planned survey. Each image shows a different date and the user can chose different maps to color the data by (e.g. sky brightness, moon phase, etc.). The user can also change the interval between which they want to show data. For example, one could chose to show image acquisitions 10 days before and 10 days after since the given start date of the survey.
+This simulation shows a field selection and image acquisition of the Rubin Observatory of the 1-year life of its planned survey. Each image shows a different date and the user can chose different maps to color the data by (e.g. sky brightness, moon phase, etc). The user can also change the interval between which they want to show data. For example, one could chose to show image acquisitions 10 days before and 10 days after since the given start date of the survey.
 
 ## Gathering the data
 
